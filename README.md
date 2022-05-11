@@ -1,4 +1,4 @@
-# BigLab 2 - Class: 2022 WA1-KZ
+# BigLab 2 - Class: 2022 [WA1-AJ/WA1-KZ]
 
 ## Team name: TEAM_NAME
 
